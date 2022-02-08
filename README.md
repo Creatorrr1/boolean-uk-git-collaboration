@@ -32,6 +32,7 @@ Alice, on your computer:
 
   ```html
   <h1>Hello NAME!</h1>
+  <h1>hi hello <h1>
   ```
 
 * Stage and commit this change.
